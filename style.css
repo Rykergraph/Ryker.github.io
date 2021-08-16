@@ -139,6 +139,7 @@ a.tbl-biru2 {
     background: #00c3ff;
     border-radius: 20px;
     margin-top: 20px;
+    margin-right: 10px;
     padding: 15px 20px 15px 20px;
     color: #ffff;
     cursor: pointer;
@@ -155,6 +156,7 @@ a.tbl-oren {
     background: #ff8500;
     border-radius: 20px;
     margin-top: 20px;
+    margin-right: 10px;
     padding: 15px 20px 15px 20px;
     color: #ffff;
     cursor: pointer;
@@ -164,4 +166,15 @@ a.tbl-oren {
 a.tbl-oren:hover {
     background: #687980;
     text-decoration: none;
+}
+
+.sosmed {
+    position:absolute;
+    left: 490px;
+    top: 115px;
+
+}
+ 
+.sosmed img{
+    margin-right: 10px;
 }
