@@ -139,6 +139,7 @@ a.tbl-biru2 {
     background: #00c3ff;
     border-radius: 20px;
     margin-top: 20px;
+    margin-right: 10px;
     padding: 15px 20px 15px 20px;
     color: #ffff;
     cursor: pointer;
@@ -155,6 +156,7 @@ a.tbl-oren {
     background: #ff8500;
     border-radius: 20px;
     margin-top: 20px;
+    margin-right: 10px;
     padding: 15px 20px 15px 20px;
     color: #ffff;
     cursor: pointer;
